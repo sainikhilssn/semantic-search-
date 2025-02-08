@@ -14,7 +14,7 @@ This project is a **semantic search engine** that utilizes **Elasticsearch**, **
 ## 📦 Installation
 ### 🔹 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/semantic-search-engine.git
+git clone
 cd semantic-search-engine
 ```
 
